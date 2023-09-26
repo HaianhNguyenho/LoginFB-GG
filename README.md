@@ -1,5 +1,5 @@
 # Login = Facebook
-Doc: https://developers.facebook.com/apps/704694201506554/fb-login/quickstart
+Doc: https://developers.facebook.com/docs/facebook-login/android
 ![image](https://github.com/HaianhNguyenho/LoginFB-GG/assets/91009619/b0a2ac86-5cb4-4a55-9f81-3382df53e5ac)
 ![image](https://github.com/HaianhNguyenho/LoginFB-GG/assets/91009619/8c9da682-0f27-4515-866a-f413280d5e79)
 ![image](https://github.com/HaianhNguyenho/LoginFB-GG/assets/91009619/7dbc7878-1f66-4c22-95f4-400cb2db42f6)
